@@ -1,0 +1,21 @@
+BookId	Author
+1	Mark Lee
+2	Patrick Rothfuss
+3	Patrick Rothfuss
+4	Andy Weir
+5	Stephen King
+6	Orson Scott Card
+7	Orson Scott Card
+8	Ernest Cline
+9	John Steinbeck
+10	John Steinbeck
+11	Robert M. Pirsig
+12	Richard K. Morgan
+13	Neil Gaiman
+14	Ernest Cline
+15	Haruki Murakami
+16	Daniel H. Wilson
+17	Alexandre Dumas
+18	Alexandre Dumas
+19	Miguel de Cervantes Saavedra
+20	Scott Lynch

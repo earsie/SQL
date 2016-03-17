@@ -1,0 +1,6 @@
+Publisher_ID	Publisher Name	Address	Phone
+1	HarperCollins	195 Broadway	1-800-242-7737
+2	TOR Books	175 5th Ave	(212) 388-0100
+3	Penguin Random House	1745 Broadway/230 West 56th Street	1-800-733-3000
+4	Simon and Schuster	230 Avenue of the Americas	1 (800) 223-2336
+5	Pearson	330 Hudson Street 	44 (207) 010-2000

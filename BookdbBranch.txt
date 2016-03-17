@@ -1,0 +1,7 @@
+Branch_ID	Branch Name	Address
+1	Sharpstown	1234 NE 11th
+2	Central	1262 SW Jefferson
+3	East	4545 E Williams
+4	North	652 N Burnt
+5	West	8999 W Lovel
+6	South	2365 S Front

@@ -1,0 +1,16 @@
+Card Number	Name	Address	Phone
+37899001	Fred Flinstone	301 Cobblestone Way	235-3659
+37899002	Barney Rubble	345 Stonecave Rd	235-3655
+37899003	Wilma Flinstone	301 Cobblestone Way	235-3659
+37899004	Betty Rubble	345 Stonecave Rd	235-3655
+37899005	Peter Parker	20 Ingram Street	836-9865
+37899006	Clark Kent	344 Clinton Street	548-7788
+37899007	Lois Lane	2568 Simpson Ave.	548-8899
+37899008	Bruce Banner	1235 Von Dutch Ave.	555-8866
+37899009	Edward Elric	268 Kingstone Lane	232-4948
+37899010	Alphonse Elric	268 Kingstone Lane	232-4948
+37899011	Roy Mustang	5566 Royal Payne Street	256-5596
+37899012	Winry Rockbell	200 Fyxit Drive	258-9954
+37899013	Maes Hughes	5682 Drapper Lane	425-5541
+37899014	Renton Thurson	7586 Skylight Blvd.	556-6623
+37899015	Holland Novak	7586 Skylight Blvd.	556-8863
